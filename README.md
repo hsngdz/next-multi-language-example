@@ -1,6 +1,6 @@
 # Next.js + TypeScript + Tailwind CSS Multi-language Example
 
-This is a simple example of using **React Context** to make a multi-language website which gets its data from **JSON** files.
+This is a simple example of using **React Context** to build a multi-language website which gets its data from **JSON** files.
 
 ## Deploy your own
 
