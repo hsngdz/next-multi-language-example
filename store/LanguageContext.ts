@@ -1,1 +1,8 @@
-// Language context will be here
+import { createContext } from "react";
+
+const LanguageContext = createContext({
+  userLanguage: "",
+  changeUserLanguage: (value: string) => {},
+});
+
+export default LanguageContext;
