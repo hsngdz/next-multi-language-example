@@ -1,7 +1,7 @@
 import { createContext } from "react";
 
 const LanguageContext = createContext({
-  userLanguage: "",
+  userLanguage: "en",
   changeUserLanguage: (value: string) => {},
 });
 
