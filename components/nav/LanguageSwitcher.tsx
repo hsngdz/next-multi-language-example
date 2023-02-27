@@ -2,7 +2,7 @@ import { useContext } from "react";
 import LanguageContext from "../../store/LanguageContext";
 
 const LanguageSwitcher = () => {
-  const { userLanguage, changeUserLanguage } = useContext(LanguageContext);
+  const { changeUserLanguage } = useContext(LanguageContext);
 
   const handleChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     const lang = event.target.value;

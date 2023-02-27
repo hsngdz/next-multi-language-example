@@ -1,11 +1,5 @@
-import Copyright from "../Copyright";
-
 const Footer = () => {
-  return (
-    <footer>
-      <Copyright />
-    </footer>
-  );
+  return <footer></footer>;
 };
 
 export default Footer;
