@@ -4,6 +4,5 @@
     { "id": 2, "name": "رویداد ها", "link": "events" },
     { "id": 3, "name": "درباره ما", "link": "about-us" },
     { "id": 4, "name": "تماس با ما", "link": "contact-us" }
-  ],
-  "content": [{ "id": 1, "body": "الف" }]
+  ]
 }
